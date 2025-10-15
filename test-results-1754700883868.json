@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-08-09T00:54:42.052Z",
+  "config": {
+    "quick": false,
+    "validate": false,
+    "benchmark": true,
+    "verbose": true,
+    "instances": 100,
+    "cycles": 10
+  },
+  "results": {
+    "dataValidation": {
+      "groundTruthCount": 100,
+      "detectedCount": 100
+    },
+    "healthCheck": {
+      "node": "v24.5.0",
+      "platform": "win32",
+      "arch": "x64",
+      "memory": {
+        "rss": 34144256,
+        "heapTotal": 6606848,
+        "heapUsed": 4741920,
+        "external": 1571542,
+        "arrayBuffers": 10515
+      },
+      "cwd": "C:\\Users\\CEC\\Documents\\Mycelia System"
+    },
+    "integration": {
+      "status": "integrated"
+    },
+    "benchmark": {
+      "totalTime": 1725,
+      "avgCycleTime": 169.4,
+      "avgSuccessRate": 0.954,
+      "avgContradictionRate": 0.26399999999999996,
+      "throughput": 579.7101449275362,
+      "memoryDelta": 5852744
+    }
+  }
+}

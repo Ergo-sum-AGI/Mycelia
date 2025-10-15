@@ -1,0 +1,17 @@
+{
+  "name": "mycelia-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "enhanced_mycelia_semantic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "nanocurrency": "^2.5.0"
+  }
+}

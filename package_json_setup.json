@@ -1,0 +1,34 @@
+{
+  "name": "mycelia-distributed-ai-system",
+  "version": "1.0.0",
+  "description": "Distributed AI Self-Modeling System with Horizontal Recursion",
+  "main": "mycelia_distributed_ai_self_modeling_system.js",
+  "scripts": {
+    "start": "node mycelia_distributed_ai_self_modeling_system.js",
+    "test": "node test_runner.js",
+    "demo": "node enhanced_mycelia_semantic.js",
+    "validate": "node test_runner.js --validate",
+    "benchmark": "node test_runner.js --benchmark"
+  },
+  "keywords": [
+    "ai",
+    "distributed-systems",
+    "machine-learning",
+    "blockchain",
+    "contradiction-detection",
+    "semantic-analysis"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/mycelia-system.git"
+  }
+}
